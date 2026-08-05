@@ -1,7 +1,3 @@
-Aapke GitHub par abhi jo page open hai, usme main repository ki `README.md` file edit ho rahi hai. Wahan code ki explanations nahi, balki sirf projects ki list honi chahiye taaki aapki repository professional dikhe.
-
-Wahan ke saare content ko **Select All (Ctrl + A)** karke delete kar dein aur sirf yeh clean code paste kar dein:
-
 ```markdown
 # C Language Projects 🚀
 
