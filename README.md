@@ -17,7 +17,3 @@ A collection of interactive console-based games and applications written in C pr
 **Developed By:** Ayush Mondal
 
 ```
-
-Jab aap ye paste kar dein, toh upar right side ke **"Commit changes..."** button par click karke save kar dein.
-
-*(Note: Agar aapko individual games ke liye explanations chahiye, toh unhe respective folders jaise `Gusseng game/README.md` aur `Tic-Tac-Toe game/README.md` ke andar alag se save karein, main repository ke root README mein nahi.)*
